@@ -1,0 +1,3 @@
+include ':easysdk'
+include ':app'
+rootProject.name = "DemoSdk"
